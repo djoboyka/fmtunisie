@@ -5,25 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5P4SMSSM');</script>
-  <!-- End Google Tag Manager -->
-  
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZK3C74LD29"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-ZK3C74LD29');
-  </script>
-  <!-- End Google Analytics -->
-  
   <!-- SEO Meta Tags -->
   <title>FM Tunisie Voyage - Découvrez la Tunisie Authentique | Guide de Voyage Complet</title>
   <meta name="description" content="Découvrez la Tunisie authentique avec FM Tunisie Voyage. Guide complet des destinations, conseils voyage, culture tunisienne, gastronomique et experiences uniques." />
@@ -62,6 +43,67 @@
   
   <!-- Usercentrics Consent Management Platform -->
   <script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-settings-id="ssOwkXUHwqRiGc" async></script>
+  
+  <!-- Google Consent Mode & Analytics (Loaded after Usercentrics CMP) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZK3C74LD29"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    // Set default consent mode to denied (GDPR compliance)
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied',
+      'functionality_storage': 'granted',
+      'security_storage': 'granted',
+      'personalization_storage': 'denied'
+    });
+
+    // Configure Google Analytics
+    gtag('config', 'G-ZK3C74LD29');
+  </script>
+  
+  <!-- Google Tag Manager with Consent Mode -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5P4SMSSM');
+  </script>
+  
+  <!-- Usercentrics-GTM Integration -->
+  <script>
+    // Update Google Consent Mode when Usercentrics consent changes
+    window.addEventListener('uc-custom-consent-changed', function(event) {
+      const consentData = event.detail;
+      
+      if (consentData) {
+        // Convert Usercentrics consent to Google Consent Mode
+        gtag('consent', 'update', {
+          'ad_storage': consentData.ads ? 'granted' : 'denied',
+          'analytics_storage': consentData.analytics ? 'granted' : 'denied',
+          'personalization_storage': consentData.personalization ? 'granted' : 'denied'
+        });
+      }
+    });
+    
+    // Also update on CMP load completion
+    window.addEventListener('uc-cmp-ready', function() {
+      if (window.UC_UI) {
+        // Get initial consent status
+        const consentData = window.UC_UI.getConsentData();
+        if (consentData) {
+          gtag('consent', 'update', {
+            'ad_storage': consentData.ads ? 'granted' : 'denied',
+            'analytics_storage': consentData.analytics ? 'granted' : 'denied',
+            'personalization_storage': consentData.personalization ? 'granted' : 'denied'
+          });
+        }
+      }
+    });
+  </script>
 </head>
 
 <body>
