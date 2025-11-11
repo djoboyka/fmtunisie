@@ -104,6 +104,48 @@
       }
     });
   </script>
+  
+  <!-- Google AdSense for Ads (GDPR Compliant) -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8703166866896558"
+     crossorigin="anonymous"></script>
+  
+  <!-- Enhanced AdSense Integration with Consent Mode -->
+  <script>
+    // Enhanced consent update for AdSense
+    function updateAdSenseConsent(consentData) {
+      if (consentData) {
+        // Only load AdSense if ad consent is granted
+        if (consentData.ads) {
+          gtag('consent', 'update', {
+            'ad_storage': 'granted'
+          });
+          
+          // Ensure AdSense script is properly initialized
+          if (typeof adsbygoogle !== 'undefined') {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          }
+        } else {
+          gtag('consent', 'update', {
+            'ad_storage': 'denied'
+          });
+        }
+      }
+    }
+    
+    // Update AdSense consent on Usercentrics changes
+    window.addEventListener('uc-custom-consent-changed', function(event) {
+      const consentData = event.detail;
+      updateAdSenseConsent(consentData);
+    });
+    
+    // Update AdSense consent on CMP load
+    window.addEventListener('uc-cmp-ready', function() {
+      if (window.UC_UI) {
+        const consentData = window.UC_UI.getConsentData();
+        updateAdSenseConsent(consentData);
+      }
+    });
+  </script>
 </head>
 
 <body>
