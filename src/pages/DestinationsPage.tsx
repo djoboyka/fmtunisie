@@ -56,6 +56,7 @@ const DestinationsPage = () => {
         'Hammamet superpose une médina charmante et un resort moderne autour d\'une marina, de parcs d\'attractions et de thalassothérapie.',
       bestTime: 'Mai-septembre (plage)',
       duration: '2-3 jours',
+      url: '/destinations/hammamet',
       highlights: [
         'Médina & Kasbah — ruelles bleues et blanches',
         'Yasmine Hammamet — marina et parcs',
@@ -70,6 +71,7 @@ const DestinationsPage = () => {
         'Tozeur ouvre les portes du grand Sud: médina de briques, palmeraie foisonnante et escapades en 4x4 vers les canyons.',
       bestTime: 'Printemps et automne',
       duration: '2-3 jours',
+      url: '/destinations/tozeur',
       highlights: [
         'Chebika & Tamaghza — oasis de montagne',
         'Mides Canyon — paysages spectaculaires',
@@ -84,6 +86,7 @@ const DestinationsPage = () => {
         'Kairouan, quatrième ville sainte de l\'Islam, concentre une densité spirituelle et architecturale rare avec sa Grande Mosquée du IXe siècle.',
       bestTime: 'Mars-avril & octobre-novembre',
       duration: '1-2 jours',
+      url: '/destinations/kairouan',
       highlights: [
         'Grande Mosquée — IXe siècle, cœur spirituel',
         'Mosquée des Trois Portes — façade sculptée',
