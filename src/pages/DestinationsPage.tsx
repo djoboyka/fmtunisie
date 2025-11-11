@@ -41,6 +41,7 @@ const DestinationsPage = () => {
         'Djerba conjugue plages de sable blanc et mixité culturelle avec une synagogue historique, des mosquées et des villages d\'art.',
       bestTime: 'Plages: juin-sept.; visites: mars-mai & sept.-nov.',
       duration: '3-4 jours',
+      url: '/destinations/djerba',
       highlights: [
         'Houmt Souk — médina et port',
         'Synagogue El Ghriba — patrimoine religieux',
@@ -241,9 +242,9 @@ const DestinationsPage = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {extraSites.map((site, index) => (
-              <div
+              <Link 
                 key={index}
-                onClick={() => window.location.href = site.url}
+                to={site.url}
                 className="group premium-card hover:-translate-y-2 transition-all duration-300 cursor-pointer"
               >
                 <div className="relative h-72 overflow-hidden">
@@ -264,7 +265,7 @@ const DestinationsPage = () => {
                     <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                   </div>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
         </div>
