@@ -895,7 +895,3 @@
 # uploads/
 # downloads/
 
-# Allow sitemap.xml to be committed
-!public/sitemap.xml
-!dist/sitemap.xml
-
