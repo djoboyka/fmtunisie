@@ -132,6 +132,110 @@ const DestinationDetailPage = () => {
         'Flâner dans les ruelles de la médina',
         'Lever de soleil au port de pêche'
       ]
+    },
+    'djerba': {
+      name: 'Djerba',
+      heroImage: '/images/djerba_beach_9.jpeg',
+      description: 'Djerba conjugue plages de sable blanc et mixité culturelle avec une synagogue historique, des mosquées et des villages d\'art.',
+      overview: 'La plus grande île de la Méditerranée offre un bonheur unique : paradis des plages et richesse culturelle. Houmt Souk, sa médina et son port actif, symbolisent le commerce d\'autrefois. La synagogue El Ghriba, la plus ancienne d\'Afrique, et les différents villages d\'art créent une synergie culturelle unique.',
+      highlights: [
+        'Synagogue El Ghriba - plus ancienne d\'Afrique',
+        'Houmt Souk - médina et port traditionnel',
+        'Djerbahood - village d\'art à ciel ouvert',
+        'Plages de Sidi Mahrez - sable blanc',
+        'Guellela - village de potiers traditionnels',
+        'Architecture unique avec ses concours'
+      ],
+      practicalInfo: {
+        duration: '3-4 jours',
+        bestTime: 'Avril à juin, septembre à novembre (plages: juin-septembre)',
+        distance: '360 km de Tunis',
+        access: 'Avion (35 min) ou ferry (1h) via Zarzis'
+      },
+      tips: [
+        'Louer une voiture pour explorer l\'île librement',
+        'Visiter la synagogue El Ghriba en dehors de shabbat',
+        'Découvrir les villages d\'art tôt le matin',
+        'Profiter des plages tôt le matin ou tard le soir'
+      ]
+    },
+    'hammamet': {
+      name: 'Hammamet',
+      heroImage: '/images/hammamet_medina_5.jpg',
+      description: 'Hammamet superpose une médina charmante et un resort moderne autour d\'une marina, de parcs d\'attractions et de thalassothérapie.',
+      overview: 'Station balnéaire la plus connue de Tunisie, Hammamet offre une expérience en deux temps : la charmante médina aux ruelles bleues et blanches, et la moderne station Yasmine avec sa marina, ses clubs et ses thalassothérapies. Une parfaite équilibrée entre patrimoine et modernité.',
+      highlights: [
+        'Médina historique avec kasbah',
+        'Yasmine Hammamet - marina moderne',
+        'Parcs d\'attractions familiaux (Carthageland)',
+        'Thalassothérapie et centres de bien-être',
+        'Plages dorées et criques secrètes',
+        'Grande plage de Hammamet'
+      ],
+      practicalInfo: {
+        duration: '2-3 jours',
+        bestTime: 'Mai à septembre (plage), octobre à avril (culture)',
+        distance: '65 km de Tunis',
+        access: 'Autoroute (45 min) ou train (1h20)'
+      },
+      tips: [
+        'Explorer la médina tôt le matin avant la foule',
+        'Combiner Thalassothérapie et détente',
+        'Dîner sur le front de mer au coucher du soleil',
+        'Utiliser les navettes pour rejoindre la médina'
+      ]
+    },
+    'tozeur': {
+      name: 'Tozeur',
+      heroImage: '/images/tozeur_oasis_0.jpg',
+      description: 'Tozeur ouvre les portes du grand Sud : médina de briques, palmeraie foisonnante et escapades en 4x4 vers les canyons.',
+      overview: 'Capitale du Grand Sud tunisien, Tozeur est une oasis monumentale au cœur du désert. Sa médina aux briques de terre cuites et sa palmeraie foisonnante servent de point de départ pour excursions en 4x4 vers les canyons de Mides, escapades filmographiques et paysages spectaculaires du Sahara.',
+      highlights: [
+        'Palmeraie de Tozeur - plus grand oasis',
+        'Médina de briques cuites',
+        'Oasis de Chebika et Tamaghza',
+        'Mides Canyon - paysages spectaculaires',
+        'Chott el Jerid - mer salée',
+        'Mos Espa - décors Star Wars'
+      ],
+      practicalInfo: {
+        duration: '2-3 jours',
+        bestTime: 'Octobre à avril',
+        distance: '450 km de Tunis',
+        access: 'Autoroute (4h) ou avion pour Chott el Jerid'
+      },
+      tips: [
+        'Commencer tôt le matin pour éviter la chaleur',
+        'Emporter beaucoup d\'eau et protection solaire',
+        'Réserver les excursions 4x4 à l\'avance',
+        'Profiter des lever et coucher de soleil dans le désert'
+      ]
+    },
+    'kairouan': {
+      name: 'Kairouan',
+      heroImage: '/images/kairouan_mosque_7.webp',
+      description: 'Kairouan, quatrième ville sainte de l\'Islam, concentre une densité spirituelle et architecturale rare avec sa Grande Mosquée du IXe siècle.',
+      overview: 'Appelée "Santiago des Tunisiens" par Mahomet lui-même, la ville concentre une densité spirituelle et architecturale rare. Cette quatrième ville sainte offre un voyage unique dans le monde religieux et culturel de l\'Islam, avec des trésors architecturaux exceptionnels.',
+      highlights: [
+        'Grande Mosquée du IXe siècle - cœur spirituel',
+        'Mosquée des Trois Portes - façade sculptée',
+        'Zaouïa de Sidi Sahabi - complexe funéraire',
+        'Zaouïa d\'Sidi Amar Abderrahmân - art géométrique',
+        'Marché aux tapis traditionnel',
+        'Souks et ateliers d\'artisans'
+      ],
+      practicalInfo: {
+        duration: '1-2 jours',
+        bestTime: 'Octobre à novembre, mars à avril',
+        distance: '160 km de Tunis',
+        access: 'Autoroute (1h30) ou voiture (2h)'
+      },
+      tips: [
+        'Respecter les règles de tenue dans les lieux saints',
+        'Prévoir un guide pour comprendre l\'architecture',
+        'Visiter le marché aux tapis tôt le matin',
+        'Découvrir l\'art géométrique dans les zaouïas'
+      ]
     }
   };
 
