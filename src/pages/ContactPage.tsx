@@ -45,7 +45,7 @@ const ContactPage = () => {
         <meta property="og:description" content="Contactez FM Tunisie Voyage pour toutes vos questions sur le voyage en Tunisie." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/contact" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/sidi_bou_said_5.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/sidi_bou_said_5.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Contactez-Nous - FM Tunisie Voyage" />
         <meta name="twitter:description" content="Contactez FM Tunisie Voyage pour toutes vos questions sur le voyage en Tunisie." />
@@ -55,7 +55,7 @@ const ContactPage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/sidi_bou_said_5.jpg"
+            src="/images/sidi_bou_said_5.webp"
             alt="Sidi Bou Said - Tunisia"
             className="w-full h-full object-cover"
           />

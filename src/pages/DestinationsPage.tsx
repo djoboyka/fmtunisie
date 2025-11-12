@@ -6,7 +6,7 @@ const DestinationsPage = () => {
   const destinations = [
     {
       name: 'Tunis — Capitale, médina, Carthage & Sidi Bou Said',
-      image: '/images/tunis_medina_0.jpg',
+      image: '/images/tunis_medina_0.webp',
       description:
         'Tunis marie un centre moderne à une médina classée UNESCO et à un hinterland historique dense: Bardo et ses mosaïques, Carthage et Sidi Bou Said en seule journée.',
       bestTime: 'Printemps et automne',
@@ -21,7 +21,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Sousse — Médina UNESCO & Côte du Sahel',
-      image: '/images/sousse_ribat_5.jpg',
+      image: '/images/sousse_ribat_5.webp',
       description:
         'La "Perle du Sahel" aligne Ribat, Grande Mosquée, musée archéologique et une corniche propice aux apéros couchants.',
       bestTime: 'Printemps/automne',
@@ -36,7 +36,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Djerba — Îles, plages, culture & "Star Wars"',
-      image: '/images/djerba_beach_9.jpeg',
+      image: '/images/djerba_beach_9.webp',
       description:
         'Djerba conjugue plages de sable blanc et mixité culturelle avec une synagogue historique, des mosquées et des villages d\'art.',
       bestTime: 'Plages: juin-sept.; visites: mars-mai & sept.-nov.',
@@ -51,7 +51,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Hammamet — Station phare, médina & Yasmine moderne',
-      image: '/images/hammamet_medina_5.jpg',
+      image: '/images/hammamet_medina_5.webp',
       description:
         'Hammamet superpose une médina charmante et un resort moderne autour d\'une marina, de parcs d\'attractions et de thalassothérapie.',
       bestTime: 'Mai-septembre (plage)',
@@ -66,7 +66,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Tozeur — Oasis, désert & canyons',
-      image: '/images/tozeur_oasis_0.jpg',
+      image: '/images/tozeur_oasis_0.webp',
       description:
         'Tozeur ouvre les portes du grand Sud: médina de briques, palmeraie foisonnante et escapades en 4x4 vers les canyons.',
       bestTime: 'Printemps et automne',
@@ -99,19 +99,19 @@ const DestinationsPage = () => {
   const extraSites = [
     {
       name: 'El Djem',
-      image: '/images/el_djem_amphitheater_1.jpg',
+      image: '/images/el_djem_amphitheater_1.webp',
       description: 'Amphithéâtre romano-africain parmi les mieux conservés',
       url: '/destinations/el-djem',
     },
     {
       name: 'Dougga',
-      image: '/images/dougga_roman_1.jpg',
+      image: '/images/dougga_roman_1.webp',
       description: 'Ville romaine perchée avec Capitol et théâtre',
       url: '/destinations/dougga',
     },
     {
       name: 'Carthage',
-      image: '/images/carhtage_ruins_0.jpg',
+      image: '/images/carhtage_ruins_0.webp',
       description: 'Ruines puniques et romaines sur les collines',
       url: '/destinations/carthage',
     },
@@ -137,7 +137,7 @@ const DestinationsPage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/carhtage_ruins_0.jpg"
+            src="/images/carhtage_ruins_0.webp"
             alt="Carthage Ruins Tunisia"
             className="w-full h-full object-cover"
           />

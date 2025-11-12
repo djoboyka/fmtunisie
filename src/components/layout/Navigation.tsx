@@ -24,7 +24,7 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img 
-              src="/logo.png" 
+              src="/logo.webp" 
               alt="FM Tunisie Voyage - Découvrez la Tunisie Authentique"
               className="h-12 w-auto mr-3"
             />

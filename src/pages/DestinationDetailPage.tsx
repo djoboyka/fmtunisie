@@ -8,7 +8,7 @@ const DestinationDetailPage = () => {
   const destinations = {
     'el-djem': {
       name: 'El Djem',
-      heroImage: '/images/el_djem_amphitheater_1.jpg',
+      heroImage: '/images/el_djem_amphitheater_1.webp',
       description: 'L\'amphithéâtre d\'El Djem est l\'un des mieux conservés au monde et constitue un témoignage exceptionnel de l\'architecture romano-africaine.',
       overview: 'Classé au patrimoine mondial de l\'UNESCO, l\'amphithéâtre d\'El Djem témoigne de la grandeur de l\'Afrique romaine. Cette arène monumentale pouvait accueillir jusqu\'à 35 000 spectateurs et fut le théâtre de combats de gladiateurs pendant plus de trois siècles.',
       highlights: [
@@ -33,7 +33,7 @@ const DestinationDetailPage = () => {
     },
     'dougga': {
       name: 'Dougga',
-      heroImage: '/images/dougga_roman_1.jpg',
+      heroImage: '/images/dougga_roman_1.webp',
       description: 'Dougga est la plus belle cité romaine de Tunisie, perchée sur une colline dominant la vallée fertile du Kébir.',
       overview: 'Ancienne capitale de la confédération numide des Masaesyles, Dougga fut ensuite une próspréreuse cité romaine. Ses ruines exceptionnellement préservées surplombent la campagne tunisienne, offrant un panorama exceptionnel sur les paysages environnants.',
       highlights: [
@@ -59,7 +59,7 @@ const DestinationDetailPage = () => {
     },
     'carthage': {
       name: 'Carthage',
-      heroImage: '/images/carhtage_ruins_0.jpg',
+      heroImage: '/images/carhtage_ruins_0.webp',
       description: 'Carthage, légende de l\'Antiquité, offre un voyage à travers 3 000 ans d\'histoire entre légendes puniques et splendeur romaine.',
       overview: 'Fondée par les Phéniciens au IXe siècle av. J.-C., Carthage fut la rivale de Rome avant de devenir une próspréreuse colonie romaine. Ses ruines empiétées dans la ville moderne de Tunis racontent l\'histoire d\'une des plus grandes civilisations de l\'Antiquité.',
       highlights: [
@@ -85,7 +85,7 @@ const DestinationDetailPage = () => {
     },
     'tunis': {
       name: 'Tunis',
-      heroImage: '/images/tunis_medina_0.jpg',
+      heroImage: '/images/tunis_medina_0.webp',
       description: 'Tunis marie un centre moderne à une médina classée UNESCO et à un hinterland historique dense.',
       overview: 'Capitale de la Tunisie, Tunis est une fascinante juxtaposition entre patrimoine historique et modernité. La médina coloniale contraste avec le centre-ville français et les quartiers résidentiels contemporains.',
       highlights: [
@@ -110,7 +110,7 @@ const DestinationDetailPage = () => {
     },
     'sousse': {
       name: 'Sousse',
-      heroImage: '/images/sousse_ribat_5.jpg',
+      heroImage: '/images/sousse_ribat_5.webp',
       description: 'La "Perle du Sahel" aligne Ribat, Grande Mosquée, musée archéologique et une corniche propice aux apéros couchants.',
       overview: 'Troisième ville de Tunisie, Sousse est une perle architecturale au cœur du Sahel. Sa médina sauvegardée, son ribat historiques et son musée archéologique en font un site impéract au patrimoine mondial de l\'UNESCO.',
       highlights: [
@@ -135,7 +135,7 @@ const DestinationDetailPage = () => {
     },
     'djerba': {
       name: 'Djerba',
-      heroImage: '/images/djerba_beach_9.jpeg',
+      heroImage: '/images/djerba_beach_9.webp',
       description: 'Djerba conjugue plages de sable blanc et mixité culturelle avec une synagogue historique, des mosquées et des villages d\'art.',
       overview: 'La plus grande île de la Méditerranée offre un bonheur unique : paradis des plages et richesse culturelle. Houmt Souk, sa médina et son port actif, symbolisent le commerce d\'autrefois. La synagogue El Ghriba, la plus ancienne d\'Afrique, et les différents villages d\'art créent une synergie culturelle unique.',
       highlights: [
@@ -161,7 +161,7 @@ const DestinationDetailPage = () => {
     },
     'hammamet': {
       name: 'Hammamet',
-      heroImage: '/images/hammamet_medina_5.jpg',
+      heroImage: '/images/hammamet_medina_5.webp',
       description: 'Hammamet superpose une médina charmante et un resort moderne autour d\'une marina, de parcs d\'attractions et de thalassothérapie.',
       overview: 'Station balnéaire la plus connue de Tunisie, Hammamet offre une expérience en deux temps : la charmante médina aux ruelles bleues et blanches, et la moderne station Yasmine avec sa marina, ses clubs et ses thalassothérapies. Une parfaite équilibrée entre patrimoine et modernité.',
       highlights: [
@@ -187,7 +187,7 @@ const DestinationDetailPage = () => {
     },
     'tozeur': {
       name: 'Tozeur',
-      heroImage: '/images/tozeur_oasis_0.jpg',
+      heroImage: '/images/tozeur_oasis_0.webp',
       description: 'Tozeur ouvre les portes du grand Sud : médina de briques, palmeraie foisonnante et escapades en 4x4 vers les canyons.',
       overview: 'Capitale du Grand Sud tunisien, Tozeur est une oasis monumentale au cœur du désert. Sa médina aux briques de terre cuites et sa palmeraie foisonnante servent de point de départ pour excursions en 4x4 vers les canyons de Mides, escapades filmographiques et paysages spectaculaires du Sahara.',
       highlights: [

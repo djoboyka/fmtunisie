@@ -17,31 +17,31 @@ const HomePage = () => {
   const destinations = [
     {
       name: 'Tunis',
-      image: '/images/tunis_medina_0.jpg',
+      image: '/images/tunis_medina_0.webp',
       description: 'Capitale à la médina vivante, porte de Carthage & Sidi Bou Said',
       highlights: ['Médina UNESCO', 'Musée du Bardo', 'Carthage'],
     },
     {
       name: 'Djerba',
-      image: '/images/djerba_beach_9.jpeg',
+      image: '/images/djerba_beach_9.webp',
       description: 'Île aux plages, patrimoine et culture méditerranéenne',
       highlights: ['Plages de sable blanc', 'El Ghriba', 'Djerbahood'],
     },
     {
       name: 'Tozeur',
-      image: '/images/tozeur_oasis_0.jpg',
+      image: '/images/tozeur_oasis_0.webp',
       description: 'Oasis sahariennes, palmeraie et canyons',
       highlights: ['Chott el Jerid', 'Canyons', 'Star Wars'],
     },
     {
       name: 'Hammamet',
-      image: '/images/hammamet_medina_5.jpg',
+      image: '/images/hammamet_medina_5.webp',
       description: 'Station balnéaire avec médina historique',
       highlights: ['Médina bleue', 'Plages', 'Yasmine moderne'],
     },
     {
       name: 'Sousse',
-      image: '/images/sousse_ribat_5.jpg',
+      image: '/images/sousse_ribat_5.webp',
       description: 'Médina UNESCO & Côte du Sahel',
       highlights: ['Ribat', 'Grande Mosquée', 'Musée'],
     },
@@ -86,11 +86,11 @@ const HomePage = () => {
         <meta property="og:description" content="Explorez la Tunisie authentique avec FM Tunisie Voyage. Découvrez les destinations, la culture, la gastronomie et les trésors cachés de la Tunisie." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/sidi_bou_said_2.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/sidi_bou_said_2.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="FM Tunisie Voyage - Découvrez l'Authentique Tunisie" />
         <meta name="twitter:description" content="Explorez la Tunisie authentique avec FM Tunisie Voyage. Découvrez les destinations, la culture, la gastronomie et les trésors cachés de la Tunisie." />
-        <meta name="twitter:image" content="https://www.fmtunisie.com/images/sidi_bou_said_2.jpg" />
+        <meta name="twitter:image" content="https://www.fmtunisie.com/images/sidi_bou_said_2.webp" />
         <link rel="canonical" href="https://www.fmtunisie.com" />
       </Helmet>
       {/* Stunning Hero Section with Background Image */}
@@ -98,7 +98,7 @@ const HomePage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="/images/sidi_bou_said_2.jpg"
+            src="/images/sidi_bou_said_2.webp"
             alt="Sidi Bou Said - Tunisia"
             className="w-full h-full object-cover"
           />
@@ -292,7 +292,7 @@ const HomePage = () => {
       <section className="relative py-24 overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/desert_landscape_5.jpg"
+            src="/images/desert_landscape_5.webp"
             alt="Sahara Desert Tunisia"
             className="w-full h-full object-cover"
           />

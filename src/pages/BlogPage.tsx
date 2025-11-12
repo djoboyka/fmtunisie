@@ -14,7 +14,7 @@ const BlogPage = () => {
         <meta property="og:description" content="Découvrez nos guides de voyage, conseils pratiques et astuces pour préparer votre séjour en Tunisie." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/blog" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/tunis_medina_0.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/tunis_medina_0.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Blog Voyage Tunisie - Guides, Conseils et Astuces" />
         <meta name="twitter:description" content="Découvrez nos guides de voyage, conseils pratiques et astuces pour préparer votre séjour en Tunisie." />

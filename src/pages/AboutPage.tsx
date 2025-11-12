@@ -12,7 +12,7 @@ const AboutPage = () => {
         <meta property="og:description" content="Découvrez FM Tunisie Voyage, votre guide expert pour explorer la Tunisie authentique." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/a-propos" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/traditional_architecture_2.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/traditional_architecture_2.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="À Propos - Notre Mission et Vision | FM Tunisie Voyage" />
         <meta name="twitter:description" content="Découvrez FM Tunisie Voyage, votre guide expert pour explorer la Tunisie authentique." />
@@ -22,7 +22,7 @@ const AboutPage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/traditional_architecture_2.jpg"
+            src="/images/traditional_architecture_2.webp"
             alt="Traditional Tunisian Architecture"
             className="w-full h-full object-cover"
           />
