@@ -1,5 +1,5 @@
-import React, { BrowserRouter as Router, Routes, Route, Suspense } from 'react-router-dom';
-import { Suspense } from 'react';
+import React, { Suspense } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/layout/Navigation';
 import Footer from './components/layout/Footer';
 import ScrollToTop from './components/ScrollToTop';
