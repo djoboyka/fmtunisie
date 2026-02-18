@@ -1,0 +1,887 @@
+[
+  {
+    "query": "Historic Ribat fortress in Sousse overlooking the Mediterranean Sea",
+    "image_info": {
+      "url": "https://images.museumwnf.org/zoom/monuments/isl/tn/1/15/2.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 168366,
+      "width": 1275,
+      "height": 1024,
+      "total_pixels": 1305600,
+      "basic_score": 0.9156152844630396,
+      "file_name": "sousse_ribat_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Historic Ribat fortress in Sousse overlooking the Mediterranean Sea",
+    "image_info": {
+      "url": "https://carthagemagazine.com/wp-content/uploads/2023/04/Sousse-Ribat-1024x680.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 173860,
+      "width": 1024,
+      "height": 680,
+      "total_pixels": 696320,
+      "basic_score": 0.9101270694906748,
+      "file_name": "sousse_ribat_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Historic Ribat fortress in Sousse overlooking the Mediterranean Sea",
+    "image_info": {
+      "url": "https://www.minimundus.at/wp-content/uploads/2016/07/ribat-von-sousse-850x425.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 106360,
+      "width": 850,
+      "height": 425,
+      "total_pixels": 361250,
+      "basic_score": 0.8031896834778464,
+      "file_name": "sousse_ribat_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Hammamet medina with characteristic blue doors and white architecture",
+    "image_info": {
+      "url": "https://www.revigorate.com/images/hamammet-medina-tunisia-africa.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 570213,
+      "width": 1300,
+      "height": 865,
+      "total_pixels": 1124500,
+      "basic_score": 0.9646365492681688,
+      "file_name": "hammamet_medina_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Hammamet medina with characteristic blue doors and white architecture",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/3B9HCTC/alley-with-blue-decorated-wooden-doors-arabic-balconies-and-windows-and-colorful-flags-in-the-medina-in-hammamet-tunisia-3B9HCTC.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 199099,
+      "width": 1300,
+      "height": 991,
+      "total_pixels": 1288300,
+      "basic_score": 0.9239014277075784,
+      "file_name": "hammamet_medina_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Hammamet medina with characteristic blue doors and white architecture",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/A5P6NP/traditional-door-in-the-medina-hammamet-tunisia-A5P6NP.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 201827,
+      "width": 837,
+      "height": 1390,
+      "total_pixels": 1163430,
+      "basic_score": 0.8955692252531882,
+      "file_name": "hammamet_medina_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful traditional architecture of Tunis medina with narrow streets and historic buildings",
+    "image_info": {
+      "url": "https://maverickbird.com/wp-content/uploads/2022/01/53739914_2616188481731516_6800712058993115136_n.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 971251,
+      "width": 960,
+      "height": 720,
+      "total_pixels": 691200,
+      "basic_score": 0.9417731512200457,
+      "file_name": "tunis_medina_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful traditional architecture of Tunis medina with narrow streets and historic buildings",
+    "image_info": {
+      "url": "https://maverickbird.com/wp-content/uploads/2022/01/54114874_2616187711731593_7385451884745588736_n.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 592253,
+      "width": 960,
+      "height": 720,
+      "total_pixels": 691200,
+      "basic_score": 0.9386639381825259,
+      "file_name": "tunis_medina_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful traditional architecture of Tunis medina with narrow streets and historic buildings",
+    "image_info": {
+      "url": "https://guide-voyage-tunisie.com/wp-content/uploads/2022/12/medina-de-tunis5-1-1024x768.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 180350,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.93498130179544,
+      "file_name": "tunis_medina_7.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Magnificent Roman amphitheater at El Djem, one of the best preserved in the world",
+    "image_info": {
+      "url": "https://carthagemagazine.com/wp-content/uploads/2021/03/The-El-Jem-Amphitheatre-1024x768.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 205753,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.9273474549470428,
+      "file_name": "el_djem_amphitheater_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Magnificent Roman amphitheater at El Djem, one of the best preserved in the world",
+    "image_info": {
+      "url": "https://www.archidatum.com/media/4780/the-amphitheatre-of-el-jem_aerial-view_archeologpl.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 220225,
+      "width": 1024,
+      "height": 685,
+      "total_pixels": 701440,
+      "basic_score": 0.9154838324426351,
+      "file_name": "el_djem_amphitheater_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Magnificent Roman amphitheater at El Djem, one of the best preserved in the world",
+    "image_info": {
+      "url": "https://www.archidatum.com/media/4778/the-amphitheatre-of-el-jem_access_wikimediaorg.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 158902,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.909233015514273,
+      "file_name": "el_djem_amphitheater_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Ancient ruins of Carthage with historic stone structures and Mediterranean backdrop",
+    "image_info": {
+      "url": "https://www.artnews.com/wp-content/uploads/2025/07/GettyImages-2160011013.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 591617,
+      "width": 1350,
+      "height": 900,
+      "total_pixels": 1215000,
+      "basic_score": 0.9579729041779058,
+      "file_name": "carhtage_ruins_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Ancient ruins of Carthage with historic stone structures and Mediterranean backdrop",
+    "image_info": {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0037_0001-1200-630-20151105154317.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 118517,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.9085225455889262,
+      "file_name": "carhtage_ruins_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Ancient ruins of Carthage with historic stone structures and Mediterranean backdrop",
+    "image_info": {
+      "url": "https://www.historyhit.com/app/uploads/bis-images/5150769/Carthage-750x537-f50_50.jpg?x81146",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 574251,
+      "width": 750,
+      "height": 537,
+      "total_pixels": 402750,
+      "basic_score": 0.8698243686843153,
+      "file_name": "carhtage_ruins_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Iconic blue and white painted village of Sidi Bou Said with Mediterranean view",
+    "image_info": {
+      "url": "https://lp-cms-production.imgix.net/2025-06/GettyImages-1205588847.jpg?auto=format,compress&q=72&w=1440&h=810&fit=crop",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 330568,
+      "width": 1440,
+      "height": 810,
+      "total_pixels": 1166400,
+      "basic_score": 0.9477498627354816,
+      "file_name": "sidi_bou_said_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Iconic blue and white painted village of Sidi Bou Said with Mediterranean view",
+    "image_info": {
+      "url": "https://www.desireetravels.com/wp-content/uploads/2023/07/SidiBouSaid-41-683x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 201341,
+      "width": 683,
+      "height": 1024,
+      "total_pixels": 699392,
+      "basic_score": 0.8975288019190096,
+      "file_name": "sidi_bou_said_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Iconic blue and white painted village of Sidi Bou Said with Mediterranean view",
+    "image_info": {
+      "url": "https://i0.wp.com/www.independentpeople.net/wp-content/uploads/2019/12/sidi-bou-said-tunisia-21.jpg?fit=1500%2C1000&ssl=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 291159,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.8932767361701873,
+      "file_name": "sidi_bou_said_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Well-preserved Roman ruins at Dougga UNESCO World Heritage site",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/FW5PGW/dougga-roman-temple-ruins-a-unesco-world-heritage-site-in-tunisia-FW5PGW.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 211498,
+      "width": 1300,
+      "height": 953,
+      "total_pixels": 1238900,
+      "basic_score": 0.9317688603554904,
+      "file_name": "dougga_roman_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Well-preserved Roman ruins at Dougga UNESCO World Heritage site",
+    "image_info": {
+      "url": "https://www.kathmanduandbeyond.com/wp-content/uploads/2019/04/The-Capitol-Dougga-Tunisia-7.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 173465,
+      "width": 1080,
+      "height": 720,
+      "total_pixels": 777600,
+      "basic_score": 0.9233321922208925,
+      "file_name": "dougga_roman_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Well-preserved Roman ruins at Dougga UNESCO World Heritage site",
+    "image_info": {
+      "url": "https://i0.wp.com/www.engagingcultures.com/wp-content/uploads/2023/03/Dougga-Tunisia-Theater-Hillside.jpg?ssl=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 361954,
+      "width": 1000,
+      "height": 667,
+      "total_pixels": 667000,
+      "basic_score": 0.9210168806388972,
+      "file_name": "dougga_roman_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A stunning panoramic view of Tunisia's Mediterranean coastline with blue waters and golden beaches for hero image",
+    "image_info": {
+      "url": "https://s7g10.scene7.com/is/image/barcelo/tunisia-road-trip_things-to-see-in-hammamet?&&fmt=webp-alpha&qlt=75&wid=1200&fit=crop,1",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 68922,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9399647526240659,
+      "file_name": "tunisia_hero_landscape_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A stunning panoramic view of Tunisia's Mediterranean coastline with blue waters and golden beaches for hero image",
+    "image_info": {
+      "url": "https://static.barcelo.com/content/dam/bpt/posts/2020/1/tunisia-road-trip_tunisia-coast.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 360791,
+      "width": 1170,
+      "height": 532,
+      "total_pixels": 622440,
+      "basic_score": 0.8770539423178487,
+      "file_name": "tunisia_hero_landscape_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A stunning panoramic view of Tunisia's Mediterranean coastline with blue waters and golden beaches for hero image",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/port-aux-princes-tunisia-cliffs-rocks-mediterranean-sea-landscape-beautiful-blue-sky-heavenly-escape-takelsa-395652134.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 67773,
+      "width": 800,
+      "height": 533,
+      "total_pixels": 426400,
+      "basic_score": 0.8319880290643448,
+      "file_name": "tunisia_hero_landscape_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tozeur architecture with palm oasis in the desert landscape",
+    "image_info": {
+      "url": "https://www.ferretingoutthefun.com/wp-content/uploads/2024/03/20240217_101214-768x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 383865,
+      "width": 768,
+      "height": 1024,
+      "total_pixels": 786432,
+      "basic_score": 0.9258875183492341,
+      "file_name": "tozeur_oasis_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tozeur architecture with palm oasis in the desert landscape",
+    "image_info": {
+      "url": "https://www.ferretingoutthefun.com/wp-content/uploads/2024/03/20240216_091948-768x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 258076,
+      "width": 768,
+      "height": 1024,
+      "total_pixels": 786432,
+      "basic_score": 0.9161346897809873,
+      "file_name": "tozeur_oasis_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tozeur architecture with palm oasis in the desert landscape",
+    "image_info": {
+      "url": "https://www.ferretingoutthefun.com/wp-content/uploads/2024/03/20240217_112054-768x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 229792,
+      "width": 768,
+      "height": 1024,
+      "total_pixels": 786432,
+      "basic_score": 0.9136656416019745,
+      "file_name": "tozeur_oasis_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Pristine beaches of Djerba island with crystal clear turquoise waters",
+    "image_info": {
+      "url": "https://i0.wp.com/mytravelation.com/wp-content/uploads/2023/09/djerba.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 831203,
+      "width": 1254,
+      "height": 836,
+      "total_pixels": 1048344,
+      "basic_score": 0.9717131359258011,
+      "file_name": "djerba_beach_9.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Pristine beaches of Djerba island with crystal clear turquoise waters",
+    "image_info": {
+      "url": "https://resaprivee.com/modules/prestablog/views/img/grid-for-1-7/up-img/22.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 64532,
+      "width": 1000,
+      "height": 500,
+      "total_pixels": 500000,
+      "basic_score": 0.8393915773174297,
+      "file_name": "djerba_beach_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Pristine beaches of Djerba island with crystal clear turquoise waters",
+    "image_info": {
+      "url": "https://i2-prod.mirror.co.uk/article35289463.ece/ALTERNATES/s615/0_The-island-of-Djerba-in-Tunisia.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 32590,
+      "width": 615,
+      "height": 409,
+      "total_pixels": 251535,
+      "basic_score": 0.7777651429622268,
+      "file_name": "djerba_beach_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian market (souk) with spices, fabrics, and local products",
+    "image_info": {
+      "url": "https://images.squarespace-cdn.com/content/v1/5db5e6869c82027d2d5c809a/1583936276751-Y9J7KQ33Q5K3N31ZCQA7/Tunis+souk+-2.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 547557,
+      "width": 1280,
+      "height": 960,
+      "total_pixels": 1228800,
+      "basic_score": 0.9538509860197775,
+      "file_name": "souk_market_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian market (souk) with spices, fabrics, and local products",
+    "image_info": {
+      "url": "https://previews.123rf.com/images/urfl/urfl1405/urfl140505940/28723160-spices-and-food-at-the-souq-or-market-in-the-old-town-or-medina-of-sousse-in-tunisia-on-the.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 223603,
+      "width": 1300,
+      "height": 877,
+      "total_pixels": 1140100,
+      "basic_score": 0.9424036603587788,
+      "file_name": "souk_market_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian market (souk) with spices, fabrics, and local products",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/CY2ARG/spices-in-the-medina-tunis-tunisia-CY2ARG.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 272058,
+      "width": 1300,
+      "height": 956,
+      "total_pixels": 1242800,
+      "basic_score": 0.936202825971327,
+      "file_name": "souk_market_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian couscous dish with vegetables and meat in authentic setting",
+    "image_info": {
+      "url": "https://www.jenniferlowery.com/wp-content/uploads/2021/05/Tunisian-Couscous-Salad-2.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 246557,
+      "width": 1200,
+      "height": 797,
+      "total_pixels": 956400,
+      "basic_score": 0.9463352697146264,
+      "file_name": "couscous_traditional_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian couscous dish with vegetables and meat in authentic setting",
+    "image_info": {
+      "url": "https://www.jenniferlowery.com/wp-content/uploads/2021/05/Tunisian-Couscous-Salad-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 193080,
+      "width": 1200,
+      "height": 758,
+      "total_pixels": 909600,
+      "basic_score": 0.9370930690184909,
+      "file_name": "couscous_traditional_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian couscous dish with vegetables and meat in authentic setting",
+    "image_info": {
+      "url": "https://ranasrecipe.com/wp-content/uploads/2023/03/IMG_3001-e1695070889452.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 258981,
+      "width": 1200,
+      "height": 675,
+      "total_pixels": 810000,
+      "basic_score": 0.9342512455417842,
+      "file_name": "couscous_traditional_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Vibrant traditional Tunisian textile or carpet with geometric patterns",
+    "image_info": {
+      "url": "https://www.mollaianrugs.com/wp-content/uploads/images/14044047%20(1).jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 269749,
+      "width": 1001,
+      "height": 1200,
+      "total_pixels": 1201200,
+      "basic_score": 0.9147057231528899,
+      "file_name": "textile_pattern_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Vibrant traditional Tunisian textile or carpet with geometric patterns",
+    "image_info": {
+      "url": "https://rjohnhowe.wordpress.com/wp-content/uploads/2009/05/slide12-photo-1.jpg?w=584",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 68482,
+      "width": 584,
+      "height": 643,
+      "total_pixels": 375512,
+      "basic_score": 0.8144553244473438,
+      "file_name": "textile_pattern_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Vibrant traditional Tunisian textile or carpet with geometric patterns",
+    "image_info": {
+      "url": "https://www.shutterstock.com/shutterstock/photos/168331448/display_1500/stock-photo-texture-of-traditional-tunisian-carpet-168331448.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 1526837,
+      "width": 1001,
+      "height": 1600,
+      "total_pixels": 1601600,
+      "basic_score": 0.8011257486114443,
+      "file_name": "textile_pattern_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern resort area in Tunisia with pools and Mediterranean hotels",
+    "image_info": {
+      "url": "https://yasminebeach.best-hotelstunisia.com/data/Images/OriginalPhoto/10186/1018691/1018691851/hammamet-yasmine-beach-image-1.JPEG",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 228202,
+      "width": 903,
+      "height": 1000,
+      "total_pixels": 903000,
+      "basic_score": 0.9296328919668312,
+      "file_name": "resort_modern_5.JPEG"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern resort area in Tunisia with pools and Mediterranean hotels",
+    "image_info": {
+      "url": "https://images.trvl-media.com/lodging/103000000/102590000/102582100/102582022/54f6b2ff.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 180207,
+      "width": 862,
+      "height": 575,
+      "total_pixels": 495650,
+      "basic_score": 0.8648130734290025,
+      "file_name": "resort_modern_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern resort area in Tunisia with pools and Mediterranean hotels",
+    "image_info": {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/61/75/ea/yasmine-beach-resort.jpg?w=900&h=500&s=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 148780,
+      "width": 900,
+      "height": 500,
+      "total_pixels": 450000,
+      "basic_score": 0.8476469766487802,
+      "file_name": "resort_modern_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional TunisianArchitecture with arches and Islamic geometric patterns",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/T9N6T0/islamic-architectural-motifs-and-tile-work-in-the-central-courtyard-of-a-traditional-17th-century-home-in-the-medina-old-city-of-tunis-tunisia-T9N6T0.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 285547,
+      "width": 1300,
+      "height": 956,
+      "total_pixels": 1242800,
+      "basic_score": 0.9372270749148829,
+      "file_name": "traditional_architecture_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional TunisianArchitecture with arches and Islamic geometric patterns",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/T9N6J3/islamic-architectural-motifs-and-tile-work-in-the-central-courtyard-of-a-traditional-17th-century-home-in-the-medina-old-city-of-tunis-tunisia-T9N6J3.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 222700,
+      "width": 1300,
+      "height": 956,
+      "total_pixels": 1242800,
+      "basic_score": 0.9322711185865151,
+      "file_name": "traditional_architecture_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional TunisianArchitecture with arches and Islamic geometric patterns",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/T9N6JY/islamic-architectural-motifs-and-tile-work-in-the-central-courtyard-of-a-traditional-17th-century-home-in-the-medina-old-city-of-tunis-tunisia-T9N6JY.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 188292,
+      "width": 1300,
+      "height": 956,
+      "total_pixels": 1242800,
+      "basic_score": 0.9293671187709485,
+      "file_name": "traditional_architecture_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian pottery and ceramics with geometric patterns",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/FNJCRE/tunisia-traditional-pottery-FNJCRE.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 254941,
+      "width": 863,
+      "height": 1390,
+      "total_pixels": 1199570,
+      "basic_score": 0.8982065587374808,
+      "file_name": "pottery_traditional_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian pottery and ceramics with geometric patterns",
+    "image_info": {
+      "url": "https://www.shutterstock.com/shutterstock/photos/207031123/display_1500/stock-photo-traditional-tunisian-ceramics-markets-tunisia-207031123.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 1473308,
+      "width": 1500,
+      "height": 1102,
+      "total_pixels": 1653000,
+      "basic_score": 0.8384317360106399,
+      "file_name": "pottery_traditional_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian pottery and ceramics with geometric patterns",
+    "image_info": {
+      "url": "https://www.shutterstock.com/shutterstock/photos/207146371/display_1500/stock-photo-traditional-tunisian-ceramics-markets-tunisia-207146371.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 1550358,
+      "width": 1500,
+      "height": 1101,
+      "total_pixels": 1651500,
+      "basic_score": 0.8322289943437541,
+      "file_name": "pottery_traditional_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian desert landscape with sand dunes and oasis",
+    "image_info": {
+      "url": "https://lp-cms-production.imgix.net/2024-08/shutterstock2413310961.jpg?auto=format,compress&q=72&w=1440&h=810&fit=crop",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 191153,
+      "width": 1440,
+      "height": 810,
+      "total_pixels": 1166400,
+      "basic_score": 0.936765681479587,
+      "file_name": "desert_landscape_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian desert landscape with sand dunes and oasis",
+    "image_info": {
+      "url": "https://media02.stockfood.com/largepreviews/MjE3OTE2MjU3Nw==/70295567-Sand-dunes-Sahara-Desert-Douz-Tunisia.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 230253,
+      "width": 1100,
+      "height": 731,
+      "total_pixels": 804100,
+      "basic_score": 0.9320981530780232,
+      "file_name": "desert_landscape_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Traditional Tunisian desert landscape with sand dunes and oasis",
+    "image_info": {
+      "url": "https://cdn.getyourguide.com/img/location/64f313715c599c6c.jpeg/99.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 154770,
+      "width": 1585,
+      "height": 792,
+      "total_pixels": 1255320,
+      "basic_score": 0.909932151318047,
+      "file_name": "desert_landscape_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful Kairouan mosque with Islamic architecture and minarets",
+    "image_info": {
+      "url": "https://sacredsites.com/images/africa/tunisia/Kairouan-Great-Mosque-1.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 47404,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9377584271088367,
+      "file_name": "kairouan_mosque_7.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful Kairouan mosque with Islamic architecture and minarets",
+    "image_info": {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3d/f2/73/cortile.jpg?w=900&h=500&s=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 90117,
+      "width": 900,
+      "height": 500,
+      "total_pixels": 450000,
+      "basic_score": 0.8408564166265411,
+      "file_name": "kairouan_mosque_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful Kairouan mosque with Islamic architecture and minarets",
+    "image_info": {
+      "url": "https://img.atlasobscura.com/-oqOCX56dVxnD7_x9ElSavIF-Eb_rskmtGlZ0vL0Ga8/rt:fit/h:400/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mYTRi/ZjFiYWEyMTlmY2Qz/N2NfUGFub3JhbWFf/b2ZfdGhlX2NvdXJ0/eWFyZF9vZl90aGVf/R3JlYXRfTW9zcXVl/X29mX0thaXJvdWFu/LmpwZw.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 53489,
+      "width": 1054,
+      "height": 400,
+      "total_pixels": 421600,
+      "basic_score": 0.7760864496075708,
+      "file_name": "kairouan_mosque_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful Tunisian sunset over Mediterranean Sea with golden colors",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/view-kerkennah-tunisian-archipelago-mediterranean-sea-sunset-over-kerkennah-tunisian-archipelago-302262673.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 36165,
+      "width": 800,
+      "height": 533,
+      "total_pixels": 426400,
+      "basic_score": 0.8280505698649586,
+      "file_name": "sunset_mediterranean_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Beautiful Tunisian sunset over Mediterranean Sea with golden colors",
+    "image_info": {
+      "url": "https://www.shutterstock.com/image-photo/sunset-on-beach-shining-golden-260nw-2167059761.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 26502,
+      "width": 493,
+      "height": 280,
+      "total_pixels": 138040,
+      "basic_score": 0.7209553299777062,
+      "file_name": "sunset_mediterranean_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Colorful Tunisian brik pastry with egg and herbs, traditional street food",
+    "image_info": {
+      "url": "https://www.jidlonacestach.cz/wp-content/uploads/2024/11/brik-768x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 103436,
+      "width": 768,
+      "height": 1024,
+      "total_pixels": 786432,
+      "basic_score": 0.9015498669888363,
+      "file_name": "brik_pastry_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Colorful Tunisian brik pastry with egg and herbs, traditional street food",
+    "image_info": {
+      "url": "https://cdn.roadsandkingdoms.com/uploads/2016/05/13282264_10154023140925873_793900078_n1.jpg?class=1536",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 89521,
+      "width": 960,
+      "height": 640,
+      "total_pixels": 614400,
+      "basic_score": 0.8846516183211578,
+      "file_name": "brik_pastry_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Colorful Tunisian brik pastry with egg and herbs, traditional street food",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/C5n1fN8TGHs/sddefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 36667,
+      "width": 640,
+      "height": 480,
+      "total_pixels": 307200,
+      "basic_score": 0.7890229183472282,
+      "file_name": "brik_pastry_5.jpg"
+    },
+    "llm_score": null
+  }
+]
