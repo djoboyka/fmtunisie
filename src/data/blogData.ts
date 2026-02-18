@@ -17,6 +17,14 @@ export const blogPosts: BlogPost[] = [
     image: '/images/louage_tunisie.jpg'
   },
   {
+    slug: 'guide-marchandage-medina',
+    title: 'La vérité sur le marchandage dans la Médina : Le guide d\'un local pour ne pas se faire avoir',
+    excerpt: 'Apprenez à marchander comme un pro dans les souks tunisiens. Techniques, conseils et erreurs à éviter pour faire de bonnes affaires.',
+    date: '2026-01-15',
+    category: 'Culture',
+    image: '/images/medina_marchandage.jpg'
+  },
+  {
     slug: 'meilleure-periode-visiter-tunisie',
     title: 'Meilleure Période pour Visiter la Tunisie',
     excerpt: 'Découvrez les meilleures saisons pour voyager en Tunisie selon vos préférences et activités.',
