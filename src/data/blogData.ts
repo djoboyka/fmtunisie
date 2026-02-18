@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Découvrez comment maîtriser les louages, le moyen de transport le plus authentique de Tunisie. Astuces locales et règles non écrites.',
     date: '2026-02-18',
     category: 'Pratique',
-    image: '/images/desert_landscape_5.webp'
+    image: '/images/louage_tunisie.jpg'
   },
   {
     slug: 'meilleure-periode-visiter-tunisie',
