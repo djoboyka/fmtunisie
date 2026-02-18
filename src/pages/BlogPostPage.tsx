@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 import { useParams, Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { Calendar, Tag, ArrowLeft, ArrowRight } from 'lucide-react';
+import { Calendar, Tag, ArrowLeft, ArrowRight, MapPin } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -180,6 +180,39 @@ const BlogPostPage = () => {
               <p className="text-xl text-gray-700 mb-8">{post.excerpt}</p>
             </div>
           )}
+        </div>
+      </section>
+
+      {/* Author Bio */}
+      <section className="py-12 bg-white">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <div className="bg-gradient-to-br from-mediterranean-blue-50 to-mediterranean-sand-50 rounded-2xl p-8 shadow-md">
+            <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+              <img
+                src="/images/ward_profile.jpg"
+                alt="Ward - Guide local en Tunisie"
+                className="w-32 h-32 rounded-full object-cover shadow-lg border-4 border-white"
+              />
+              <div className="flex-1 text-center md:text-left">
+                <h3 className="text-2xl font-bold text-mediterranean-blue-900 mb-2">
+                  Ward
+                </h3>
+                <div className="flex items-center justify-center md:justify-start gap-2 text-mediterranean-coral-600 mb-4">
+                  <MapPin size={18} />
+                  <span className="font-medium">Moknine, Tunisie</span>
+                </div>
+                <p className="text-gray-700 leading-relaxed">
+                  Passionné par mon pays et basé à Moknine, je partage sur FM Tunisie Voyage la Tunisie que j'aime et que je vis au quotidien. Oubliez les guides classiques : je vous emmène découvrir les vraies pépites locales, des ruelles de la Médina de Tunis aux meilleurs cafés cachés, pour vous faire voyager comme un vrai Tunisien.
+                </p>
+                <Link
+                  to="/a-propos"
+                  className="inline-block mt-4 text-mediterranean-blue-600 font-semibold hover:text-mediterranean-blue-700 hover:underline"
+                >
+                  En savoir plus sur moi →
+                </Link>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
