@@ -9,6 +9,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'quoi-ramener-tunisie-produits-artisanaux',
+    title: 'Quoi ramener de Tunisie ? Oubliez les magnets, voici les vrais produits artisanaux',
+    excerpt: 'Le guide ultime des produits artisanaux tunisiens à ramener chez vous : poterie, bois d\'olive, fouta, margoum et saveurs locales.',
+    date: '2026-02-10',
+    category: 'Culture',
+    image: '/images/artisanat_tunisie.png'
+  },
+  {
     slug: 'visiter-mahdia-itineraire-journee',
     title: 'Visiter Mahdia : mon itinéraire parfait d\'une journée (loin des sentiers battus)',
     excerpt: 'Découvrez mon itinéraire personnel pour découvrir la vraie Mahdia en une journée, à pied et à votre rythme.',

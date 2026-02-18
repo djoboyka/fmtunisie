@@ -1,4 +1,5 @@
 export const blogContentMapping: Record<string, string> = {
+  'quoi-ramener-tunisie-produits-artisanaux': '/blog/quoi-ramener-tunisie-produits-artisanaux.md',
   'visiter-mahdia-itineraire-journee': '/blog/visiter-mahdia-itineraire-journee.md',
   'budget-voyage-tunisie-2026': '/blog/budget-voyage-tunisie-2026.md',
   'guide-louage-tunisie': '/blog/guide-louage-tunisie.md',
