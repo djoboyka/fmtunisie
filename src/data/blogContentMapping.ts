@@ -1,5 +1,6 @@
 export const blogContentMapping: Record<string, string> = {
   'visiter-mahdia-itineraire-journee': '/blog/visiter-mahdia-itineraire-journee.md',
+  'budget-voyage-tunisie-2026': '/blog/budget-voyage-tunisie-2026.md',
   'guide-louage-tunisie': '/blog/guide-louage-tunisie.md',
   'guide-nourriture-hotel-tunisie': '/blog/guide-nourriture-hotel-tunisie.md',
   'guide-marchandage-medina': '/blog/guide-marchandage-medina.md',

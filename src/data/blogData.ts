@@ -17,6 +17,14 @@ export const blogPosts: BlogPost[] = [
     image: '/images/mahdia_coast.png'
   },
   {
+    slug: 'budget-voyage-tunisie-2026',
+    title: 'Combien coûte réellement une semaine en Tunisie en 2026 ? (Mon budget détaillé, sans filtres)',
+    excerpt: 'Le guide complet du budget voyage en Tunisie. Combien coûte l\'hébergement, la nourriture, les transports ?',
+    date: '2026-01-20',
+    category: 'Pratique',
+    image: '/images/tunisian_dinars.png'
+  },
+  {
     slug: 'guide-louage-tunisie',
     title: 'Guide de survie : Comment prendre un "louage" en Tunisie sans stresser',
     excerpt: 'Découvrez comment maîtriser les louages, le moyen de transport le plus authentique de Tunisie. Astuces locales et règles non écrites.',
