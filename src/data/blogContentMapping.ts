@@ -1,5 +1,6 @@
 export const blogContentMapping: Record<string, string> = {
   'guide-louage-tunisie': '/blog/guide-louage-tunisie.md',
+  'guide-nourriture-hotel-tunisie': '/blog/guide-nourriture-hotel-tunisie.md',
   'guide-marchandage-medina': '/blog/guide-marchandage-medina.md',
   'meilleure-periode-visiter-tunisie': '/blog/meilleure-periode-visiter-tunisie.md',
   'guide-voyage-economique-tunisie': '/blog/guide-voyage-economique-tunisie.md',

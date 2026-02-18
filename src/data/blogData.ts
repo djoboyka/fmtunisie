@@ -17,6 +17,14 @@ export const blogPosts: BlogPost[] = [
     image: '/images/louage_tunisie.jpg'
   },
   {
+    slug: 'guide-nourriture-hotel-tunisie',
+    title: 'La vérité sur la nourriture des hôtels "All-Inclusive" en Tunisie (et où manger à la place)',
+    excerpt: 'Découvrez pourquoi quitier le buffet de votre hôtel pour goûter la vraie gastronomie tunisienne. Conseils et adresses locales.',
+    date: '2026-02-10',
+    category: 'Culture',
+    image: '/images/tunisian_food.jpg'
+  },
+  {
     slug: 'guide-marchandage-medina',
     title: 'La vérité sur le marchandage dans la Médina : Le guide d\'un local pour ne pas se faire avoir',
     excerpt: 'Apprenez à marchander comme un pro dans les souks tunisiens. Techniques, conseils et erreurs à éviter pour faire de bonnes affaires.',
