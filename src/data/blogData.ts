@@ -9,6 +9,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'visiter-mahdia-itineraire-journee',
+    title: 'Visiter Mahdia : mon itinéraire parfait d\'une journée (loin des sentiers battus)',
+    excerpt: 'Découvrez mon itinéraire personnel pour découvrir la vraie Mahdia en une journée, à pied et à votre rythme.',
+    date: '2026-02-18',
+    category: 'Culture',
+    image: '/images/mahdia_coast.png'
+  },
+  {
     slug: 'guide-louage-tunisie',
     title: 'Guide de survie : Comment prendre un "louage" en Tunisie sans stresser',
     excerpt: 'Découvrez comment maîtriser les louages, le moyen de transport le plus authentique de Tunisie. Astuces locales et règles non écrites.',
