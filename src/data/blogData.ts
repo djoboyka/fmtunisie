@@ -9,6 +9,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'guide-louage-tunisie',
+    title: 'Guide de survie : Comment prendre un "louage" en Tunisie sans stresser',
+    excerpt: 'Découvrez comment maîtriser les louages, le moyen de transport le plus authentique de Tunisie. Astuces locales et règles non écrites.',
+    date: '2026-02-18',
+    category: 'Pratique',
+    image: '/images/desert_landscape_5.webp'
+  },
+  {
     slug: 'meilleure-periode-visiter-tunisie',
     title: 'Meilleure Période pour Visiter la Tunisie',
     excerpt: 'Découvrez les meilleures saisons pour voyager en Tunisie selon vos préférences et activités.',
