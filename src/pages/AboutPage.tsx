@@ -219,7 +219,7 @@ const AboutPage = () => {
             Écrivez-moi et je vous répondrai avec plaisir.
           </p>
           <a
-            href="mailto:contact@fmtunisie.com"
+            href="/contact"
             className="inline-flex items-center gap-3 bg-white text-mediterranean-coral-600 px-8 py-4 rounded-full font-semibold text-lg hover:bg-mediterranean-sand-100 transition-colors shadow-lg"
           >
             <span>Me contacter</span>
