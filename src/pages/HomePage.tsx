@@ -17,37 +17,37 @@ const HomePage = () => {
   const destinations = [
     {
       name: 'Tunis',
-      image: '/images/tunis_new.png',
+      image: '/images/tunis_new.webp',
       description: 'Capitale à la médina vivante, porte de Carthage & Sidi Bou Said',
       highlights: ['Médina UNESCO', 'Musée du Bardo', 'Carthage'],
     },
     {
       name: 'Djerba',
-      image: '/images/djerba_new.png',
+      image: '/images/djerba_new.webp',
       description: 'Île aux plages, patrimoine et culture méditerranéenne',
       highlights: ['Plages de sable blanc', 'El Ghriba', 'Djerbahood'],
     },
     {
       name: 'Tozeur',
-      image: '/images/tozeur_new.png',
+      image: '/images/tozeur_new.webp',
       description: 'Oasis sahariennes, palmeraie et canyons',
       highlights: ['Chott el Jerid', 'Canyons', 'Star Wars'],
     },
     {
       name: 'Hammamet',
-      image: '/images/hammamet_new.png',
+      image: '/images/hammamet_new.webp',
       description: 'Station balnéaire avec médina historique',
       highlights: ['Médina bleue', 'Plages', 'Yasmine moderne'],
     },
     {
       name: 'Sousse',
-      image: '/images/sousse_new.png',
+      image: '/images/sousse_new.webp',
       description: 'Médina UNESCO & Côte du Sahel',
       highlights: ['Ribat', 'Grande Mosquée', 'Musée'],
     },
     {
       name: 'Kairouan',
-      image: '/images/kairouan_new.png',
+      image: '/images/kairouan_new.webp',
       description: 'Ville sainte et architecture islamique',
       highlights: ['Grande Mosquée', 'Médina', 'Tapis traditionnels'],
     },

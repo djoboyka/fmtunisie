@@ -6,7 +6,7 @@ const DestinationsPage = () => {
   const destinations = [
     {
       name: 'Tunis — Capitale, médina, Carthage & Sidi Bou Said',
-      image: '/images/tunis_new.png',
+      image: '/images/tunis_new.webp',
       description:
         'Tunis marie un centre moderne à une médina classée UNESCO et à un hinterland historique dense: Bardo et ses mosaïques, Carthage et Sidi Bou Said en seule journée.',
       bestTime: 'Printemps et automne',
@@ -21,7 +21,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Sousse — Médina UNESCO & Côte du Sahel',
-      image: '/images/sousse_new.png',
+      image: '/images/sousse_new.webp',
       description:
         'La "Perle du Sahel" aligne Ribat, Grande Mosquée, musée archéologique et une corniche propice aux apéros couchants.',
       bestTime: 'Printemps/automne',
@@ -36,7 +36,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Djerba — Îles, plages, culture & "Star Wars"',
-      image: '/images/djerba_new.png',
+      image: '/images/djerba_new.webp',
       description:
         'Djerba conjugue plages de sable blanc et mixité culturelle avec une synagogue historique, des mosquées et des villages d\'art.',
       bestTime: 'Plages: juin-sept.; visites: mars-mai & sept.-nov.',
@@ -51,7 +51,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Hammamet — Station phare, médina & Yasmine moderne',
-      image: '/images/hammamet_new.png',
+      image: '/images/hammamet_new.webp',
       description:
         'Hammamet superpose une médina charmante et un resort moderne autour d\'une marina, de parcs d\'attractions et de thalassothérapie.',
       bestTime: 'Mai-septembre (plage)',
@@ -66,7 +66,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Tozeur — Oasis, désert & canyons',
-      image: '/images/tozeur_new.png',
+      image: '/images/tozeur_new.webp',
       description:
         'Tozeur ouvre les portes du grand Sud: médina de briques, palmeraie foisonnante et escapades en 4x4 vers les canyons.',
       bestTime: 'Printemps et automne',
@@ -81,7 +81,7 @@ const DestinationsPage = () => {
     },
     {
       name: 'Kairouan — Ville sainte & architecture islamique',
-      image: '/images/kairouan_new.png',
+      image: '/images/kairouan_new.webp',
       description:
         'Kairouan, quatrième ville sainte de l\'Islam, concentre une densité spirituelle et architecturale rare avec sa Grande Mosquée du IXe siècle.',
       bestTime: 'Mars-avril & octobre-novembre',
