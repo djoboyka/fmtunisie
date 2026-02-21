@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Le guide ultime des produits artisanaux tunisiens à ramener chez vous : poterie, bois d\'olive, fouta, margoum et saveurs locales.',
     date: '2026-02-10',
     category: 'Culture',
-    image: '/images/artisanat_tunisie.png'
+    image: '/images/artisanat_tunisie.webp'
   },
   {
     slug: 'visiter-mahdia-itineraire-journee',
@@ -22,7 +22,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Découvrez mon itinéraire personnel pour découvrir la vraie Mahdia en une journée, à pied et à votre rythme.',
     date: '2026-02-18',
     category: 'Culture',
-    image: '/images/mahdia_coast.png'
+    image: '/images/mahdia_coast.webp'
   },
   {
     slug: 'budget-voyage-tunisie-2026',
@@ -30,7 +30,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Le guide complet du budget voyage en Tunisie. Combien coûte l\'hébergement, la nourriture, les transports ?',
     date: '2026-01-20',
     category: 'Pratique',
-    image: '/images/tunisian_dinars.png'
+    image: '/images/tunisian_dinars.webp'
   },
   {
     slug: 'guide-louage-tunisie',
@@ -38,7 +38,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Découvrez comment maîtriser les louages, le moyen de transport le plus authentique de Tunisie. Astuces locales et règles non écrites.',
     date: '2026-02-18',
     category: 'Pratique',
-    image: '/images/louage_tunisie.jpg'
+    image: '/images/louage_tunisie.webp'
   },
   {
     slug: 'guide-nourriture-hotel-tunisie',
@@ -46,7 +46,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Découvrez pourquoi quitier le buffet de votre hôtel pour goûter la vraie gastronomie tunisienne. Conseils et adresses locales.',
     date: '2026-02-10',
     category: 'Culture',
-    image: '/images/tunisian_food.jpg'
+    image: '/images/tunisian_food.webp'
   },
   {
     slug: 'guide-marchandage-medina',
@@ -54,7 +54,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Apprenez à marchander comme un pro dans les souks tunisiens. Techniques, conseils et erreurs à éviter pour faire de bonnes affaires.',
     date: '2026-01-15',
     category: 'Culture',
-    image: '/images/medina_marchandage.jpg'
+    image: '/images/medina_marchandage.webp'
   },
   {
     slug: 'meilleure-periode-visiter-tunisie',
