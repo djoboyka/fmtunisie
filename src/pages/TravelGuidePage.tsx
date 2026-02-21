@@ -156,7 +156,7 @@ const TravelGuidePage = () => {
         <meta property="og:description" content="Guide complet pour voyager en Tunisie : visa, transport, hébergement, sécurité, santé, devise et tous les conseils pratiques." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/guide-voyage" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/souk_market_2.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/souk_market_2.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Guide de Voyage Tunisie - Conseils Pratiques" />
         <meta name="twitter:description" content="Guide complet pour voyager en Tunisie : visa, transport, hébergement, sécurité, santé, devise et tous les conseils pratiques." />
@@ -166,7 +166,7 @@ const TravelGuidePage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/souk_market_2.jpg"
+            src="/images/souk_market_2.webp"
             alt="Traditional Tunisian Market"
             className="w-full h-full object-cover"
           />

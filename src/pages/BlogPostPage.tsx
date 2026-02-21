@@ -189,7 +189,7 @@ const BlogPostPage = () => {
           <div className="bg-gradient-to-br from-mediterranean-blue-50 to-mediterranean-sand-50 rounded-2xl p-8 shadow-md">
             <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
               <img
-                src="/images/ward_profile.jpg"
+                src="/images/ward_profile.webp"
                 alt="Ward - Guide local en Tunisie"
                 className="w-32 h-32 rounded-full object-cover shadow-lg border-4 border-white"
               />

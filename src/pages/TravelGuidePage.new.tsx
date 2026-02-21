@@ -151,7 +151,7 @@ const TravelGuidePage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/souk_market_2.jpg"
+            src="/images/souk_market_2.webp"
             alt="Traditional Tunisian Market"
             className="w-full h-full object-cover"
           />

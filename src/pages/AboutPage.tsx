@@ -12,7 +12,7 @@ const AboutPage = () => {
         <meta property="og:description" content="Découvrez la Tunisie vibrante, authentique et secrète à travers les yeux d'un vrai local." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/a-propos" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/about_hero.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/about_hero.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="À Propos - Découvrez la VRAIE Tunisie | FM Tunisie Voyage" />
         <meta name="twitter:description" content="Découvrez la Tunisie vibrante, authentique et secrète à travers les yeux d'un vrai local." />
@@ -23,7 +23,7 @@ const AboutPage = () => {
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/about_hero.jpg"
+            src="/images/about_hero.webp"
             alt="FM Tunisie Voyage - Découvrez la Tunisie authentique"
             className="w-full h-full object-cover"
           />
@@ -58,7 +58,7 @@ const AboutPage = () => {
               <div className="sticky top-8">
                 <div className="relative overflow-hidden rounded-3xl shadow-2xl">
                   <img
-                    src="/images/ward_profile.jpg"
+                    src="/images/ward_profile.webp"
                     alt="Ward - Votre guide local en Tunisie"
                     className="w-full h-auto aspect-[3/4] object-cover"
                   />

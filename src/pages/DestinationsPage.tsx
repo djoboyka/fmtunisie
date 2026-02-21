@@ -127,7 +127,7 @@ const DestinationsPage = () => {
         <meta property="og:description" content="Découvrez toutes les destinations de Tunisie : Tunis, Sidi Bou Said, Carthage, Djerba, Tozeur, Hammamet, Sousse, Kairouan et plus encore." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.fmtunisie.com/destinations" />
-        <meta property="og:image" content="https://www.fmtunisie.com/images/carhtage_ruins_0.jpg" />
+        <meta property="og:image" content="https://www.fmtunisie.com/images/carhtage_ruins_0.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Destinations Tunisie - Toutes les Villes et Lieux à Découvrir" />
         <meta name="twitter:description" content="Découvrez toutes les destinations de Tunisie : Tunis, Sidi Bou Said, Carthage, Djerba, Tozeur, Hammamet, Sousse, Kairouan et plus encore." />

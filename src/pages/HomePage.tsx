@@ -98,7 +98,7 @@ const HomePage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="/images/hero_new.png"
+            src="/images/hero_new.webp"
             alt="Tunisia Hero"
             className="w-full h-full object-cover"
           />
