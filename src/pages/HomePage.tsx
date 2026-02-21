@@ -98,8 +98,8 @@ const HomePage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="/images/sidi_bou_said_2.webp"
-            alt="Sidi Bou Said - Tunisia"
+            src="/images/hero_new.png"
+            alt="Tunisia Hero"
             className="w-full h-full object-cover"
           />
           <div className="hero-overlay"></div>
