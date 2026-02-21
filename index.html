@@ -18,26 +18,26 @@
     body {
       margin: 0;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      background: #ffffff;
       min-height: 100vh;
     }
-    
+
     .min-h-screen {
       min-height: 100vh;
     }
-    
+
     .flex {
       display: flex;
     }
-    
+
     .flex-col {
       flex-direction: column;
     }
-    
+
     .flex-grow {
       flex-grow: 1;
     }
-    
+
     /* Loading spinner for lazy loaded content */
     .loading-spinner {
       display: inline-block;
@@ -48,19 +48,14 @@
       border-radius: 50%;
       animation: spin 2s linear infinite;
     }
-    
+
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
     }
-    
-    /* Prevent FOUC (Flash of Unstyled Content) */
+
+    /* Root element visible by default */
     #root {
-      opacity: 0;
-      transition: opacity 0.3s ease-in-out;
-    }
-    
-    #root.loaded {
       opacity: 1;
     }
   </style>
@@ -264,18 +259,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="root"></div>
   <script type="module" src="/src/main.tsx"></script>
   
-  <!-- Performance: Initialize content visibility after React loads -->
-  <script>
-    // Show content after React initializes to prevent FOUC
-    window.addEventListener('load', function() {
-      setTimeout(function() {
-        const root = document.getElementById('root');
-        if (root) {
-          root.classList.add('loaded');
-        }
-      }, 100);
-    });
-  </script>
 </body>
 
 </html>
